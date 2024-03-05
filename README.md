@@ -1,7 +1,8 @@
 # README
 
-![CI](https://github.com/VinokurYurii/ci_cd_test/actions/workflows/si.yml/bage.svg)
-[![Text Coverage](https://app.codecov.io/gh/VinokurYurii/ci_cd_test/graph/bage.svg)]
+![CI](https://github.com/VinokurYurii/ci_cd_test/actions/workflows/ci.yml/badge.svg)
+[![codecov](https://codecov.io/gh/VinokurYurii/ci_cd_test/graph/badge.svg?token=A1XF0TIXQR)](https://codecov.io/gh/VinokurYurii/ci_cd_test)
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
