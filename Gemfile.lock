@@ -80,6 +80,9 @@ GEM
     bootsnap (1.18.3)
       msgpack (~> 1.2)
     builder (3.2.4)
+    codecov (0.2.12)
+      json
+      simplecov
     concurrent-ruby (1.2.3)
     connection_pool (2.4.1)
     crass (1.0.6)
@@ -99,6 +102,7 @@ GEM
     irb (1.11.2)
       rdoc
       reline (>= 0.4.2)
+    json (2.7.1)
     loofah (2.22.0)
       crass (~> 1.0.2)
       nokogiri (>= 1.12.0)
@@ -211,6 +215,7 @@ PLATFORMS
 
 DEPENDENCIES
   bootsnap
+  codecov
   debug
   puma (>= 5.0)
   rails (~> 7.1.3, >= 7.1.3.2)
